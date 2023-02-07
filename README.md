@@ -2,7 +2,7 @@
 
 For my frontend design & React work, take a look at:
 * [RaiseMore](https://github.com/zachblume/raisemore) and
-* [FieldPlan](https://github.com/zachblume/fieldplan).
+* [FieldPlan](https://github.com/zachblume/fieldplan)
 
 For my backend work, take a look at:
 * [BackRub](https://github.com/zachblume/backrub) (Golang),

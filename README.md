@@ -1,4 +1,4 @@
-### Hi there, my name is Zach Blume and this is my work & personal project portfolio 👋
+### Hi there, my name is Zach Blume 👋
 
 For my frontend design & React work, take a look at:
 * [RaiseMore](https://github.com/zachblume/raisemore), a donor CRM and phone dialer for political candidates,

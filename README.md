@@ -11,4 +11,4 @@ For my backend work, take a look at:
 * [Algorithms-and-data-structures](https://github.com/zachblume/algorithms-and-data-structures) My algorithm problem-solutions in JavaScript and Python.
 
 Other things I'm working on:
-* [Daemon](https://github.com/zachblume/daemon) A browser IDE for playground/debugging that renders your JS or Python script to a custom console /on every keystroke/ (Javascript + WASM)
+* [Daemon](https://github.com/zachblume/daemon) A browser IDE for playground/debugging that renders your JS or Python script to a custom console /on every keystroke/ (Javascript + WASM). Live demo at [www.daemon.live](www.daemon.live)

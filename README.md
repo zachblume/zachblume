@@ -1,8 +1,8 @@
 ### Hi there, my name is Zach Blume 👋
 
 For my frontend design & React work, take a look at:
-* [RaiseMore](https://github.com/zachblume/raisemore), a donor CRM and phone dialer for political candidates.
-* [FieldPlan](https://github.com/zachblume/fieldplan), an analytics and charting application for tracking voter-contact metrics.
+* [RaiseMore](https://github.com/zachblume/raisemore) (React + NextJS), a donor CRM and phone dialer for political candidates.
+* [FieldPlan](https://github.com/zachblume/fieldplan) (JS), an analytics and charting application for tracking voter-contact metrics.
 * [Daemon](https://github.com/zachblume/daemon) A browser IDE for playground/debugging that renders your JavaScript or Python to a custom console on every keystroke (Web Workers + WASM). Try it at [www.daemon.live](https://www.daemon.live)
 
 For my backend work, take a look at:

@@ -4,4 +4,6 @@ I work at at the [Democratic Data Exchange](https://demexchange.com/) (DDX), whe
 
 I am the co-founder of [Raise More](https://www.raisemore.app/), a new platform of best-in-class tools for political fundraising.
 
+I also co-teach a weekly class called "Introduction to Web Development" to high school students as part of [Code Nation](https://codenation.org/).
+
 You can also take a look at my open source contributions.

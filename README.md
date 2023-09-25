@@ -1,6 +1,6 @@
 ### Hi there, my name is Zach Blume 👋
 
-I recently co-founded [Raise More](https://join.raisemore.app/), making best-in-class tools for political fundraising available to everyone.
+I recently co-founded [Raise More](https://join.raisemore.app/), making best-in-class tools for political fundraising.
 
 I work at at the [Democratic Data Exchange](https://demexchange.com/) (DDX), where I write infrastructure software that helps Democratic political campaigns and progressive organizations share information in realtime.
 

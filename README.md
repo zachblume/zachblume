@@ -8,4 +8,4 @@ I am the author of [Autospec, an open-source AI agent](https://github.com/zachbl
 
 I also co-teach a weekly class called "Introduction to Web Development" to NYC public school students as part of [Code Nation](https://codenation.org/).
 
-You can also take a look at my open source contributions.
+I'm a minor open source contributor to React-querybuilder, Supabase, and peerdb.

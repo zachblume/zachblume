@@ -2,7 +2,7 @@ I work at at the [Democratic Data Exchange](https://demexchange.com/) (DDX), whe
 
 I co-founded [Raise More](https://join.raisemore.app/), making best-in-class tools for political fundraising.
 
-I write an engineering blog at [www.zachblume.com](https://www.zachblume.com/).
+I write an [engineering blog](https://www.zachblume.com/).
 
 Open-source explorations:
  - I am the author of [Autospec, an open-source AI agent](https://github.com/zachblume/autospec) that takes a web app URL and autonomously QAs it, and saves its passing specs as E2E test code. A couple other contributors!

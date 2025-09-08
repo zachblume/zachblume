@@ -1,6 +1,6 @@
 I work at at [Stripe](https://stripe.com/).
 
-I co-founded [Raise More](https://join.raisemore.app/), making best-in-class tools for political fundraising.
+I co-founded [Raise More](https://join.raisemore.app/), best-in-class tools for political fundraising, helping Democrats in 30 states raise over $100m.
 
 I write an [engineering blog](https://www.zachblume.com/).
 

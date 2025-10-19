@@ -4,7 +4,7 @@ I co-founded [Raise More](https://join.raisemore.app/), best-in-class tools for 
 
 I write an [engineering blog](https://www.zachblume.com/).
 
-Open-source explorations:
+Open-source:
  - [Autospec, an open-source AI agent](https://github.com/zachblume/autospec) that takes a web app URL and autonomously QAs it, and saves its passing specs as E2E test code.
  - Exploration of "framework-defined infrastructure for data engineering" -> [Declare](https://github.com/zachblume/declare) [Related blog post](https://www.zachblume.com/blog/2024-10-08-framework-defined-infrastructure-for-data-engineering)
 

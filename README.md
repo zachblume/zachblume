@@ -5,7 +5,7 @@ I co-founded [Raise More](https://join.raisemore.app/), best-in-class tools for 
 I write an [engineering blog](https://www.zachblume.com/).
 
 Open-source:
- - [Autospec, an open-source AI agent](https://github.com/zachblume/autospec) that takes a web app URL and autonomously QAs it, and saves its passing specs as E2E test code (2024)
+ - [Autospec](https://github.com/zachblume/autospec), an agent that takes a web app URL and autonomously QAs it, and saves its passing specs as E2E test code (2024)
  - [Declare](https://github.com/zachblume/declare), an exploration of what "framework-defined infrastructure for data engineering" would look like [(related blog post)](https://www.zachblume.com/blog/2024-10-08-framework-defined-infrastructure-for-data-engineering)
  - Some minor open source contributions to other projects, mostly fixing docker self-hosting build bugs e.g. Supabase, peerdb, React-querybuilder, Hatchet.
 
